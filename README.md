@@ -36,7 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-CONSTITUTIONS AND CANONS Ecclesiasticall; Treated upon by the ARCHBISHOPS of Canterbury and York, PrCHARLES, By the grace of GOD, King of England, Scotland, France, and Ireland, Defender of the Faith,
+CHARLES, By the grace of GOD, King of England, Scotland, France, and Ireland, Defender of the Faith,
 #####Body#####
 
 1. Constitutions and Canons Ecclesiasticall, treated upon by the Archbishops of Canterbury and York, Presidents of the Convocations for the respective Provinces of Canterbury and York, and the rest of the Bishops and Clergie of those Provinces: And agreed upon with the Kings Majesties Licence in their severall Synods begun at London and York 1640.
