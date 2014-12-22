@@ -36,13 +36,51 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Constitutions and canons ecclesiasticall; treated upon by the Archbishops of Canterbury and York, pr
+CONSTITUTIONS AND CANONS Ecclesiasticall; Treated upon by the ARCHBISHOPS of Canterbury and York, PrCHARLES, By the grace of GOD, King of England, Scotland, France, and Ireland, Defender of the Faith,
 #####Body#####
 
-1. The Oath is:
+1. Constitutions and Canons Ecclesiasticall, treated upon by the Archbishops of Canterbury and York, Presidents of the Convocations for the respective Provinces of Canterbury and York, and the rest of the Bishops and Clergie of those Provinces: And agreed upon with the Kings Majesties Licence in their severall Synods begun at London and York 1640.
+
+    _ I. Concerning the Regall power.
+
+    _ II. For the better keeping of the day of his Majesties most happy Inauguration.
+
+    _ III. For suppressing of the growth of Popery.
+
+    _ IV. Against Socinianisme.
+
+    _ V. Against Sectaries.
+
+    _ VI. An Oath injoyn'd for the preventing of all Innovations in Doctrine and Government.
+
+      * The Oath is:
+
+    _ VII. A Declaration concerning some Rites and Ceremonies.
+
+    _ VIII. Of Preaching for Conformity.
+
+    _ IX. One Book of Articles of inquiry to be used at all Parochiall Visitations.
+
+    _ X. Concerning the Conversation of the Clergie.
+
+    _ XI. Chancellours Patents.
+
+    _ XII. Chancellours alone not to Censure any of the Clergie in sundry Cases.
+
+    _ XIII. Excommunication and absolution not to be pronounced but by a Priest.
+
+    _ XIIII. Concerning Commutations, and the disposing of them.
+
+    _ XV. Touching concurrent Iurisdictions.
+
+    _ XVI. Concerning Licences to Marrie.
+
+    _ XVII. Against vexatious Citations.
 WEE of Our Princely inclination and Royall care for the maintenance of the present Estate and govern
 #####Back#####
-Constitutions and canons ecclesiasticall; treated upon by the Archbishops of Canterbury and York, pr
+
+1. THE TABLE.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
